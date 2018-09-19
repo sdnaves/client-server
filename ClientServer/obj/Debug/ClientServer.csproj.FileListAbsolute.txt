@@ -1,0 +1,6 @@
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer\bin\Debug\ClientServer.exe.config
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer\bin\Debug\ClientServer.exe
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer\bin\Debug\ClientServer.pdb
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer\obj\Debug\ClientServer.exe
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer\obj\Debug\ClientServer.pdb
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer\obj\Debug\ClientServer.csprojResolveAssemblyReference.cache

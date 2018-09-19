@@ -1,0 +1,9 @@
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\bin\Debug\ClientServer_Chat.exe.config
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\bin\Debug\ClientServer_Chat.exe
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\bin\Debug\ClientServer_Chat.pdb
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\obj\Debug\ClientServer_Chat.Form1.resources
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\obj\Debug\ClientServer_Chat.Properties.Resources.resources
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\obj\Debug\ClientServer_Chat.csproj.GenerateResource.Cache
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\obj\Debug\ClientServer_Chat.exe
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\obj\Debug\ClientServer_Chat.pdb
+c:\users\silas.naves\documents\visual studio 2015\Projects\ClientServer_Chat\ClientServer_Chat\obj\Debug\ClientServer_Chat.csprojResolveAssemblyReference.cache
